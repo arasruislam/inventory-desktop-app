@@ -1,0 +1,68 @@
+[
+{
+  "directory": "/Users/mac/Desktop/inventory/inventory-app/build",
+  "command": "/usr/bin/c++  -I/Users/mac/Desktop/inventory/inventory-app/include -I/Users/mac/Desktop/inventory/inventory-app/sqlite -I/Users/mac/Desktop/inventory/inventory-app/src -I/Users/mac/Desktop/inventory/inventory-app/src/imgui -I/Users/mac/Desktop/inventory/inventory-app/src/imgui/backends -I/usr/local/include/SDL2 -g -std=gnu++17 -o CMakeFiles/inventory-app.dir/src/main.cpp.o -c /Users/mac/Desktop/inventory/inventory-app/src/main.cpp",
+  "file": "/Users/mac/Desktop/inventory/inventory-app/src/main.cpp",
+  "output": "CMakeFiles/inventory-app.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/mac/Desktop/inventory/inventory-app/build",
+  "command": "/usr/bin/c++  -I/Users/mac/Desktop/inventory/inventory-app/include -I/Users/mac/Desktop/inventory/inventory-app/sqlite -I/Users/mac/Desktop/inventory/inventory-app/src -I/Users/mac/Desktop/inventory/inventory-app/src/imgui -I/Users/mac/Desktop/inventory/inventory-app/src/imgui/backends -I/usr/local/include/SDL2 -g -std=gnu++17 -o CMakeFiles/inventory-app.dir/src/db.cpp.o -c /Users/mac/Desktop/inventory/inventory-app/src/db.cpp",
+  "file": "/Users/mac/Desktop/inventory/inventory-app/src/db.cpp",
+  "output": "CMakeFiles/inventory-app.dir/src/db.cpp.o"
+},
+{
+  "directory": "/Users/mac/Desktop/inventory/inventory-app/build",
+  "command": "/usr/bin/c++  -I/Users/mac/Desktop/inventory/inventory-app/include -I/Users/mac/Desktop/inventory/inventory-app/sqlite -I/Users/mac/Desktop/inventory/inventory-app/src -I/Users/mac/Desktop/inventory/inventory-app/src/imgui -I/Users/mac/Desktop/inventory/inventory-app/src/imgui/backends -I/usr/local/include/SDL2 -g -std=gnu++17 -o CMakeFiles/inventory-app.dir/src/gui.cpp.o -c /Users/mac/Desktop/inventory/inventory-app/src/gui.cpp",
+  "file": "/Users/mac/Desktop/inventory/inventory-app/src/gui.cpp",
+  "output": "CMakeFiles/inventory-app.dir/src/gui.cpp.o"
+},
+{
+  "directory": "/Users/mac/Desktop/inventory/inventory-app/build",
+  "command": "/usr/bin/cc  -I/Users/mac/Desktop/inventory/inventory-app/include -I/Users/mac/Desktop/inventory/inventory-app/sqlite -I/Users/mac/Desktop/inventory/inventory-app/src -I/Users/mac/Desktop/inventory/inventory-app/src/imgui -I/Users/mac/Desktop/inventory/inventory-app/src/imgui/backends -I/usr/local/include/SDL2 -g -o CMakeFiles/inventory-app.dir/sqlite/sqlite3.c.o -c /Users/mac/Desktop/inventory/inventory-app/sqlite/sqlite3.c",
+  "file": "/Users/mac/Desktop/inventory/inventory-app/sqlite/sqlite3.c",
+  "output": "CMakeFiles/inventory-app.dir/sqlite/sqlite3.c.o"
+},
+{
+  "directory": "/Users/mac/Desktop/inventory/inventory-app/build",
+  "command": "/usr/bin/c++  -I/Users/mac/Desktop/inventory/inventory-app/include -I/Users/mac/Desktop/inventory/inventory-app/sqlite -I/Users/mac/Desktop/inventory/inventory-app/src -I/Users/mac/Desktop/inventory/inventory-app/src/imgui -I/Users/mac/Desktop/inventory/inventory-app/src/imgui/backends -I/usr/local/include/SDL2 -g -std=gnu++17 -o CMakeFiles/inventory-app.dir/src/imgui/backends/imgui_impl_opengl3.cpp.o -c /Users/mac/Desktop/inventory/inventory-app/src/imgui/backends/imgui_impl_opengl3.cpp",
+  "file": "/Users/mac/Desktop/inventory/inventory-app/src/imgui/backends/imgui_impl_opengl3.cpp",
+  "output": "CMakeFiles/inventory-app.dir/src/imgui/backends/imgui_impl_opengl3.cpp.o"
+},
+{
+  "directory": "/Users/mac/Desktop/inventory/inventory-app/build",
+  "command": "/usr/bin/c++  -I/Users/mac/Desktop/inventory/inventory-app/include -I/Users/mac/Desktop/inventory/inventory-app/sqlite -I/Users/mac/Desktop/inventory/inventory-app/src -I/Users/mac/Desktop/inventory/inventory-app/src/imgui -I/Users/mac/Desktop/inventory/inventory-app/src/imgui/backends -I/usr/local/include/SDL2 -g -std=gnu++17 -o CMakeFiles/inventory-app.dir/src/imgui/backends/imgui_impl_sdl2.cpp.o -c /Users/mac/Desktop/inventory/inventory-app/src/imgui/backends/imgui_impl_sdl2.cpp",
+  "file": "/Users/mac/Desktop/inventory/inventory-app/src/imgui/backends/imgui_impl_sdl2.cpp",
+  "output": "CMakeFiles/inventory-app.dir/src/imgui/backends/imgui_impl_sdl2.cpp.o"
+},
+{
+  "directory": "/Users/mac/Desktop/inventory/inventory-app/build",
+  "command": "/usr/bin/c++  -I/Users/mac/Desktop/inventory/inventory-app/include -I/Users/mac/Desktop/inventory/inventory-app/sqlite -I/Users/mac/Desktop/inventory/inventory-app/src -I/Users/mac/Desktop/inventory/inventory-app/src/imgui -I/Users/mac/Desktop/inventory/inventory-app/src/imgui/backends -I/usr/local/include/SDL2 -g -std=gnu++17 -o CMakeFiles/inventory-app.dir/src/imgui/imgui.cpp.o -c /Users/mac/Desktop/inventory/inventory-app/src/imgui/imgui.cpp",
+  "file": "/Users/mac/Desktop/inventory/inventory-app/src/imgui/imgui.cpp",
+  "output": "CMakeFiles/inventory-app.dir/src/imgui/imgui.cpp.o"
+},
+{
+  "directory": "/Users/mac/Desktop/inventory/inventory-app/build",
+  "command": "/usr/bin/c++  -I/Users/mac/Desktop/inventory/inventory-app/include -I/Users/mac/Desktop/inventory/inventory-app/sqlite -I/Users/mac/Desktop/inventory/inventory-app/src -I/Users/mac/Desktop/inventory/inventory-app/src/imgui -I/Users/mac/Desktop/inventory/inventory-app/src/imgui/backends -I/usr/local/include/SDL2 -g -std=gnu++17 -o CMakeFiles/inventory-app.dir/src/imgui/imgui_demo.cpp.o -c /Users/mac/Desktop/inventory/inventory-app/src/imgui/imgui_demo.cpp",
+  "file": "/Users/mac/Desktop/inventory/inventory-app/src/imgui/imgui_demo.cpp",
+  "output": "CMakeFiles/inventory-app.dir/src/imgui/imgui_demo.cpp.o"
+},
+{
+  "directory": "/Users/mac/Desktop/inventory/inventory-app/build",
+  "command": "/usr/bin/c++  -I/Users/mac/Desktop/inventory/inventory-app/include -I/Users/mac/Desktop/inventory/inventory-app/sqlite -I/Users/mac/Desktop/inventory/inventory-app/src -I/Users/mac/Desktop/inventory/inventory-app/src/imgui -I/Users/mac/Desktop/inventory/inventory-app/src/imgui/backends -I/usr/local/include/SDL2 -g -std=gnu++17 -o CMakeFiles/inventory-app.dir/src/imgui/imgui_draw.cpp.o -c /Users/mac/Desktop/inventory/inventory-app/src/imgui/imgui_draw.cpp",
+  "file": "/Users/mac/Desktop/inventory/inventory-app/src/imgui/imgui_draw.cpp",
+  "output": "CMakeFiles/inventory-app.dir/src/imgui/imgui_draw.cpp.o"
+},
+{
+  "directory": "/Users/mac/Desktop/inventory/inventory-app/build",
+  "command": "/usr/bin/c++  -I/Users/mac/Desktop/inventory/inventory-app/include -I/Users/mac/Desktop/inventory/inventory-app/sqlite -I/Users/mac/Desktop/inventory/inventory-app/src -I/Users/mac/Desktop/inventory/inventory-app/src/imgui -I/Users/mac/Desktop/inventory/inventory-app/src/imgui/backends -I/usr/local/include/SDL2 -g -std=gnu++17 -o CMakeFiles/inventory-app.dir/src/imgui/imgui_tables.cpp.o -c /Users/mac/Desktop/inventory/inventory-app/src/imgui/imgui_tables.cpp",
+  "file": "/Users/mac/Desktop/inventory/inventory-app/src/imgui/imgui_tables.cpp",
+  "output": "CMakeFiles/inventory-app.dir/src/imgui/imgui_tables.cpp.o"
+},
+{
+  "directory": "/Users/mac/Desktop/inventory/inventory-app/build",
+  "command": "/usr/bin/c++  -I/Users/mac/Desktop/inventory/inventory-app/include -I/Users/mac/Desktop/inventory/inventory-app/sqlite -I/Users/mac/Desktop/inventory/inventory-app/src -I/Users/mac/Desktop/inventory/inventory-app/src/imgui -I/Users/mac/Desktop/inventory/inventory-app/src/imgui/backends -I/usr/local/include/SDL2 -g -std=gnu++17 -o CMakeFiles/inventory-app.dir/src/imgui/imgui_widgets.cpp.o -c /Users/mac/Desktop/inventory/inventory-app/src/imgui/imgui_widgets.cpp",
+  "file": "/Users/mac/Desktop/inventory/inventory-app/src/imgui/imgui_widgets.cpp",
+  "output": "CMakeFiles/inventory-app.dir/src/imgui/imgui_widgets.cpp.o"
+}
+]
