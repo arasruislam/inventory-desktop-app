@@ -64,7 +64,6 @@ cd build
 cmake ..
 make
 
-```bash
 ./InventoryManager
 
 
