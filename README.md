@@ -62,9 +62,10 @@ Table rows are striped, headers are styled, and icons (emojis) are used to make 
 ```bash
 cd build
 cmake ..
-make ```
+make
 
 ```bash
-./InventoryManager```
+./InventoryManager
+
 
 
